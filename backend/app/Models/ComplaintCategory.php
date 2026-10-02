@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 class ComplaintCategory extends Model
 {
     protected $fillable = [
-        'name', ''
+        'name', 
         'description',
     ];
 
